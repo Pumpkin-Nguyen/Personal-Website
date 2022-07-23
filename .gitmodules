@@ -1,0 +1,4 @@
+[submodule "dist"]
+	path = dist
+	url = https://github.com/Pumpkin-Nguyen/Personal-Website
+	branch = production
